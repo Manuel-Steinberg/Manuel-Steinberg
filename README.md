@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=manuel-steinberg&show_icons=true&theme=default&hide_border=true&title_color=262626&icon_color=ffa500&text_color=262626&locale=en" alt="Manuel Steinberg´s GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-steinberg&theme=default&hide_border=true&title_color=262626&icon_color=ffa500&text_color=262626&locale=en&layout=compact&langs_count=10" alt="Manuel Steinberg´s Most Languages on GitHub" />
+<img src="https://github-readme-stats.vercel.app/api?username=manuel-steinberg&show_icons=true&theme=default&hide_border=true&title_color=262626&icon_color=ffa500&text_color=262626&locale=en" alt="Manuel Steinberg´s GitHub Stats" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-steinberg&theme=default&hide_border=true&title_color=262626&icon_color=ffa500&text_color=262626&locale=en&layout=compact&langs_count=10" alt="Manuel Steinberg´s Most Languages on GitHub" />
 
 
 <a href="https://www.linkedin.com/in/manuelsteinberg/">
